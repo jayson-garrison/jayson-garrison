@@ -16,12 +16,22 @@ I am currently taking courses in Genetic Algorithms and Machine Learning and dev
 My aim is to further my proficiency in Python as I learn to implement machine learning algorithms in it while
 utilizing different libraries.
 
-## Skills and Languages 
-1. Java
-2. Python
-3. LaTeX
-4. Bash Terminal
+## Proficiencies 
+- Algorithm design, analysis, and implementation
+- Data Structure selection, comparison, and management
+- Machine Learning model selection, testing, implementation, analysis, and presentation
+- Artificial Intelligence agent construction, adaptation, human-agent collaboration, and presentation
+- Object Oriented Programming
+- Technical writing in LaTeX
+- Linux development
+- Bash terminal
+- Version control (git)
+- Significant project implementation (please see my ML projects)
+- Operating Systems concepts, process syncronization, and deadlock avoidance
+## Languages
 
+I have developed significant AI/ML projects in Python using many packages (pandas, numpy, matplotlib).
+I have also developed several object oriented programming projects in Java.
 ## Hobbies
 
 In my free time when I am not studying, I enjoy reading philosophical and spiritual works, praying, talking with friends, and being involved with my [*Newman*](https://www.tu-catholic.org/) community.
