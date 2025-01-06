@@ -1,4 +1,4 @@
-# Jayson Christopher Garrison
+# Jayson Garrison
 
 ## About
 
